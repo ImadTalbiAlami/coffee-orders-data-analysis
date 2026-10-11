@@ -22,11 +22,11 @@ Identify the five highest-value customers based on sales to understand customer 
 Compare sales across countries to identify the strongest-performing markets and potential growth opportunities.
 
 🛠️ Tools & Techniques
-Microsoft Excel
-Data cleaning and preparation
-PivotTables and PivotCharts
-Data visualization
-Interactive dashboard filters
+1. Microsoft Excel
+2. Data cleaning and preparation
+3. PivotTables and PivotCharts
+4. Data visualization
+5. Interactive dashboard filters
 
 📷 Dashboard Preview
 <img width="1249" height="560" alt="CaptureDashboard" src="https://github.com/user-attachments/assets/17048f81-cc4a-4cff-ae22-7f87b6e2af91" />
