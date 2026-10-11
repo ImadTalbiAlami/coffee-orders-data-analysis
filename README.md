@@ -26,7 +26,8 @@ Microsoft Excel
 Data cleaning and preparation
 PivotTables and PivotCharts
 Data visualization
-Interactive dashboard filters [if applicable]
+Interactive dashboard filters
+
 📷 Dashboard Preview
 <img width="1249" height="560" alt="CaptureDashboard" src="https://github.com/user-attachments/assets/17048f81-cc4a-4cff-ae22-7f87b6e2af91" />
 
